@@ -1,0 +1,6 @@
+{% extends "layout.njk" %}
+
+{% block content %}
+  <h1 class="h3 fw-bold">{{ message }}</h1>
+  {% if error.status %}<p class="text-secondary">Código: {{ error.status }}</p>{% endif %}
+{% endblock %}

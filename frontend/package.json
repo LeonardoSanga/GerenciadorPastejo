@@ -1,0 +1,13 @@
+{
+  "name": "gerenciadorpastejo-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "http-errors": "^2.0.0",
+    "nunjucks": "^3.2.4"
+  }
+}
