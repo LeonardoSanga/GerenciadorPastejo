@@ -1,1 +1,1 @@
-# GerenciadorPastejo
+# Sistema de Controle de Pastejo
